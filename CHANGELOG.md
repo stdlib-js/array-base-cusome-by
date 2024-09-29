@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2c4e5d8`](https://github.com/stdlib-js/stdlib/commit/2c4e5d824e0c5dc8fd536bf79ff565cee100ce46) - **build:** disable additional lint rule in TS tests _(by Philipp Burckhardt)_
 -   [`9835dae`](https://github.com/stdlib-js/stdlib/commit/9835dae5a4dba0aae50d8582b97ad69d17fefe6d) - **feat:** add `array/base/cusome-by` [(#2953)](https://github.com/stdlib-js/stdlib/pull/2953) _(by Aditya Sapra, Philipp Burckhardt)_
 
 </details>
