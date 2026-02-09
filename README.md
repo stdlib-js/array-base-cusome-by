@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cusomeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@esm/index.mjs';
+import cusomeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@v0.1.1-esm/index.mjs';
 ```
 
 #### cusomeBy( x, n, predicate\[, thisArg ] )
@@ -135,7 +135,7 @@ var bool = ( out === y );
 <script type="module">
 
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@esm/index.mjs';
-import cusomeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@esm/index.mjs';
+import cusomeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cusome-by@v0.1.1-esm/index.mjs';
 
 function fcn( value ) {
     return ( value > 0 );
